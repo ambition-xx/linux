@@ -5,3 +5,8 @@ lesson20/orphan
 lesson20/zombie
 lesson21/wait
 lesson21/waitpid
+lesson22/pipe
+lesson22/fpathconf
+lesson22/parent-child-ipc
+lesson22/test
+lesson22/noblock
