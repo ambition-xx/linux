@@ -10,3 +10,7 @@ lesson22/fpathconf
 lesson22/parent-child-ipc
 lesson22/test
 lesson22/noblock
+lesson23/write.c
+lesson23/mkfifo
+lesson23/read
+lesson23/write
