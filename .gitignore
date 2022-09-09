@@ -21,3 +21,13 @@ lesson25/mmap-parent-child-ipc
 lesson25/mmap-anon
 lesson25/copy
 lesson25/cpy.txt
+lesson26/alarm
+lesson26/alarm1
+lesson26/signal
+lesson26/setitimer
+lesson26/kill
+lesson26/core
+lesson26/sigset
+lesson26/sigprocmask
+lesson26/sigaction
+lesson26/sigchld
