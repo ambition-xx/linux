@@ -31,3 +31,5 @@ lesson26/sigset
 lesson26/sigprocmask
 lesson26/sigaction
 lesson26/sigchld
+lesson27/read_shm
+lesson27/write_shm
