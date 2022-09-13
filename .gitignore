@@ -33,3 +33,4 @@ lesson26/sigaction
 lesson26/sigchld
 lesson27/read_shm
 lesson27/write_shm
+lesson28/daemon
