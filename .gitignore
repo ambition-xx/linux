@@ -34,3 +34,13 @@ lesson26/sigchld
 lesson27/read_shm
 lesson27/write_shm
 lesson28/daemon
+lesson29/pthread_create
+lesson29/pthread_exit
+lesson29/pthread_attr
+lesson29/pthread_cancel
+lesson29/pthread_detach
+lesson29/pthread_join
+lesson30/deadlock
+lesson30/deadlock1
+lesson30/mutex
+lesson30/rwlock
