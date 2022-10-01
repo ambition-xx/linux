@@ -44,3 +44,7 @@ lesson30/deadlock
 lesson30/deadlock1
 lesson30/mutex
 lesson30/rwlock
+lesson30/cond
+lesson30/core
+lesson30/prodcust
+lesson31/byteorder
