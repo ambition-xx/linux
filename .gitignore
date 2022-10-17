@@ -48,3 +48,6 @@ lesson30/cond
 lesson30/core
 lesson30/prodcust
 lesson31/byteorder
+lesson31/iptrans
+
+.gitignore
